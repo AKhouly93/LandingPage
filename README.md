@@ -4,7 +4,7 @@
 
 * [Description](#description)
 * [Features](#features)
-* [Acknowlege](#acknowlege)
+* [Acknowledgement](#acknowledgement)
 * [Difficulties](#difficulties)
 * [Usage](#usage)
 
@@ -18,7 +18,7 @@ This is the first project in **Udacity** front end web development professional 
 3. Usable across desktop, tablet, and phone browsers.
 4. A scroll-to-top button appears when reaching the bottom of the page.
 
-## Acknowlege
+## Acknowledgement
 This project is based on the starter code provided by Udacity. I used some help from the internet to improve and add new css styles to the project. No JavaScript code is copied from others, however I used the documentation to read more about how some functions work and how to invoke them with some options. I tried to use the funtions that I've learnt in the course, although I know there may be more direct
 approaches.
 
